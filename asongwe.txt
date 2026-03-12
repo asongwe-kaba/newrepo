@@ -1,0 +1,3 @@
+git and github 
+i am happy to study devops
+this week we are workibg on devops
